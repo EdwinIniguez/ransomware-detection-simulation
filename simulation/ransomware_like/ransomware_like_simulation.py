@@ -1,0 +1,1 @@
+# Placeholder for ransomware-like simulation script
